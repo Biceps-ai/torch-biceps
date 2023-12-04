@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='tf-biceps',
+    name='torch-biceps',
     version='0.0.1',
     authors = [
         {'name': "Niels Pichon", 'email': "niels@biceps.ai"},
